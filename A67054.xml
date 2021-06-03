@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A word to a wavering Levite, or, An answer to Dr. Sherlock's reasons concerning the taking of the oaths with reflections thereupon / by a London apprentice of the Church of England.</title>
+            <author>London apprentice of the Church of England.</author>
+         </titleStmt>
+         <extent>Approx. 26 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A67054</idno><idno type="EEBO-CITATION">12765245</idno>
+  <idno type="VID">93573</idno>
+  <idno type="EEBO-PROQUEST">2240958503</idno>
+  
+            <idno type="STC">Wing W3564</idno>
+            <idno type="STC">ESTC R23494</idno>
+            <idno type="OCLC">12765245</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A67054)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 93573)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 994:37)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A word to a wavering Levite, or, An answer to Dr. Sherlock's reasons concerning the taking of the oaths with reflections thereupon / by a London apprentice of the Church of England.</title>
+                  <author>London apprentice of the Church of England.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1690.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Sherlock, William, 1641?-1707.</term>
+               <term type="topical_term">Oaths --  England --  Early works to 1800.</term>
+               <term type="topical_term">Oaths --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  William and Mary, 1689-1702.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:93573:1"/>
+            <p>A WORD TO A Wavering Levite: OR AN ANSWER TO Dr. <hi>SHERLOCK</hi>'s REASONS Concerning the <hi>Taking of the Oaths,</hi> WITH REFLECTIONS Thereupon.</p>
+            <p>
+               <hi>By a</hi> London <hi>Apprentice of the Church of</hi> England.</p>
+            <p>
+               <hi>London,</hi> Printed in the Year 1690.</p>
+         </div>
+      </front>
+      <body>
+         <div type="treatise">
+            <pb facs="tcp:93573:2"/>
+            <pb n="3" facs="tcp:93573:2"/>
+            <head>AN ANSWER TO Dr. Sherlock, &amp;c.</head>
+            <div type="to_the_reader">
+               <head>To the Reader.</head>
+               <p>
+                  <hi>WHat Constructions have been put upon Dr.</hi> S—k<hi>'s late Book concerning the Oaths, I need not multiply words to acquaint you: But my Opinion is, that he has been more over-seen, or more seen-over within these few years than in all his Life before: I have only reflected upon the Preface of his Book, not thinking it worth my labour to answer the Book it self, which would swell too big. I presuppose he will be displeased at what I have done, but it is all a case to me, for I design no ill in it, only to let him see that the World takes notice of his Actions, and that my Bookseller may be set on work as well as his.</hi>
+               </p>
+            </div>
+            <div type="text">
+               <p>IN the first Page of his Preface he begins with these words.</p>
+               <p>Doctor. <hi>I need not acquaint the World with the occasion of Publishing this Book, which in<g ref="char:EOLhyphen"/>deed is extorted from me by the Rude Clamours and Ʋnchristan Censures of some, and the earnest Importunities of others.</hi>
+               </p>
+               <p>
+                  <hi>Paraphrased.</hi> I am asham'd to let the World see my Folly in Print, but am compell'd to it, so many busie Tongues having buz'd it about the Town, to the utter Ruine of my Reputation: My W—fe and some near Friends have impor<g ref="char:EOLhyphen"/>tuned me to publish my Reasons, for Non and Conforming to the Oaths.</p>
+               <p>Doct. 2. <hi>My taking the Oaths of Allegiance to King</hi> William <hi>and Queen</hi> Mary, <hi>after so long a Refusal, has occasioned a great deal of Talk, and a great many uncharitable Guesses about it, Fa<g ref="char:EOLhyphen"/>ction and blind Zeal always wanting either the Wit, or the Good will to guess right.</hi>
+               </p>
+               <p>
+                  <hi>Paraph.</hi> My complying with the Oaths by my W—fes Instigation, contrary to my Con<g ref="char:EOLhyphen"/>science, in hopes of a Mitre, has given good mat<g ref="char:EOLhyphen"/>ter for the Judicious to reflect upon my Pro<g ref="char:EOLhyphen"/>ceedings;
+<pb n="4" facs="tcp:93573:3"/>guessing exactly at the Reasons, Loyalty and Religion always wanting either the Modesty or Ingenuity to be led Blindfold.</p>
+               <p>
+                  <hi>Answ.</hi> Good Doctor, be not so angry at so small a matter as a Report of uncharitable Guessers, as you are pleased to call them; in<g ref="char:EOLhyphen"/>deed it is no Matter of Admiration, for what Man of Sence can be silent and not reflect upon such Strange Proceedings as these of yours. First you will not take the Oaths, till after mature Deli<g ref="char:EOLhyphen"/>beration, or some other Reason, you have at All, and Swear Right or Rong: If the Oaths were Lawful, why did you not take them before, there being time enough to consider of so weighty an Affair, and so Learned a Man as Dr. <hi>S—k,</hi> one would think, needed not a School-master nor a Counsellor in this Matter; and if the Oaths were not Lawful, why did you take them now? Was your Conscience more Tender then, or was the Perswasions of a W—fe now the greater Perswasive, to one or the other? May not People with good reason say, you act against the Dictates of your own Conscience, having formerly preached against what you now act; and act now for Interest-sake, against what you with so much Zeal formerly preached.</p>
+               <p>Doct. 3. <hi>One would have thought it the most probable Conjecture, that a Man who had for<g ref="char:EOLhyphen"/>feited all his Preferments by refusing the Oath, and had for ever lost them, had not the Govern<g ref="char:EOLhyphen"/>ment been more mild and gentle in delaying the Execution of the Law, acted very honestly and sincerely in it; and if so, that there is also good Reason to believe, that if the same Person takes the Oaths, he acts honestly in that too; for what Reason is there to suspect, that he who would not Swear against the present Perswasion of his Con<g ref="char:EOLhyphen"/>science, to keep his Preferments, should Swear against his Conscience to get them again?</hi>
+               </p>
+               <p>
+                  <hi>Paraph.</hi> I had fully perswaded my self, that the World would think, because I had like to have lost my place for not taking the Oaths half a year ago, I was a Real and Honest Man: That being presupposed, they might with good reason likewise entertain that Honest Credibility of me now I have taken the Oath, which I declare at first my Conscience would not suffer me to do; for who could think I would do any thing against my Conscience?</p>
+               <p>
+                  <hi>Answ.</hi> Under Correction Doctor, give me leave to propose two things, which I offer to your Serious Consideration.</p>
+               <p>First, If you had a Servant in your House, to whom you had revealed a Secret concerning your Life, and he had Faithfully Sworn to con<g ref="char:EOLhyphen"/>ceal it from all Persons Living; now suppose you was gone over to <hi>F—,</hi> and had left your Son in Possession of your Goods, and this afore<g ref="char:EOLhyphen"/>said Servant with your Son; if after you were gone, your Son should go to this Servant, and tell him, if he would not reveal this Secret which he had Sworn to keep; he would turn him out of his Service; and so threatens him from time to time, (tho suffers him still to enjoy the Benefits of his place) but he holds out against his Masters Threats and Promises, knowing in his Conscience if he did it he was Perjur'd; yet at length by the Importunity of some Friends he reveals it, and took another con<g ref="char:EOLhyphen"/>trary to the former (being first promised Prefer<g ref="char:EOLhyphen"/>ment) to your Son; who at your return ac<g ref="char:EOLhyphen"/>quaints you with the whole Matter: Now how could such a Servant look you in the Face? or with what Indignation would you look upon him? Would you not turn him out of your Ser<g ref="char:EOLhyphen"/>vice? out of your Doors? Banish him from your Sight? and Brand him with the Odious Epithet of <hi>PERJƲRER?</hi> Nay your Son would not trust him any farther than he could see him; because he that will act against his Conscience once, why may he not do it always when occasion offers.</p>
+               <p>Secondly, Suppose this Servant, to excuse him<g ref="char:EOLhyphen"/>self, should alledge, that he expected you would never return; he waited long for your coming, and delay'd the time in hopes of it; his Con<g ref="char:EOLhyphen"/>science was too Tender to reveal the Secret at first, but the Threats of his Master, and Im<g ref="char:EOLhyphen"/>portunity of Friends, he judged a Matter of Moment enough to excuse his Infidelity to you, and his taking a new Oath in opposition to the former. So that he revealed your Secret with as safe a Conscience as before he concealed it. Now Doctor, if there be any such thing as Con<g ref="char:EOLhyphen"/>science in Man, speak, or at least think sincerely if this Servant was to be trusted? If he was not to be rejected of all Men? And if his Conscience was not Seared? Could you ever Love that Man, or trust him again? Sure no. Just even so, or not much different from it, is the Case of Dr. <hi>S—k,</hi> who takes it for a Maxim, that he who will not Swear against the Present Perswasion of his Conscience to keep his Preferments, will not Swear against his Conscience to get them again: Now where the Sense of this is no Man can tell; for you must either have a pair of Consciences, or else Swear against the Light of your single one. For first you would not take the Oath,
+<pb n="5" facs="tcp:93573:3"/>because it was against your Conscience; and then you would take it, because you were satis<g ref="char:EOLhyphen"/>fied in your Conscience that you might lawfully do it. What a strange Conscience is here! In<g ref="char:EOLhyphen"/>deed Doctor, I think in my opinion that your Conscience is stretch'd within this Twelve Month, or else you then seemed more nice than you need to have done.</p>
+               <p>Doct. 4. <hi>I do not know that I have given the World any just occasion to mark me out for a Dishonest Man or a Fool; I may be mistaken, and so may any body else, tho never so Wise and Honest; but this I am sure of, that I never acted with more Sincerity in any Affair of my whole Life, than I have done in this Matter, from the beginning to the end; and whether I have Reason for What I do, I refer to the tryal of this Discourse.</hi>
+               </p>
+               <p>
+                  <hi>Paraph.</hi> I never before this gave the World any Just occasion of Scandal, I may be vvillfully mistaken, and so may any body else, if Self<g ref="char:EOLhyphen"/>interested; but this I am certain of, I never acted with more Subtilty in any Affair in my whole Life, from the first hour of my Birth, to the Date hereof, and vvhether I had Reason for vvhat I did, let the Self-interested Judge.</p>
+               <p>
+                  <hi>Answ.</hi> Indeed Doctor the World must own, that you never gave such a Manifest Proof of your Weakness as novv, and I am Truly Sorry for this; had you taken the Oath at first vvith<g ref="char:EOLhyphen"/>out Scruple of Conscience as you did novv, you had acted vvell and like a good Subject; but hovv can their Majesties confide in a Man vvith a pair of Consciences, one to take the Oath, and the other to let it alone? Really Doctor, you vvas (as I may so say) very much overseen, vvill not the World say Interest vvas the main Ground of your taking the Oath? by vvhich you give matter for your Enemies to Triumph, your Pro<g ref="char:EOLhyphen"/>fession you lay open to Reproach and Scandal; and give a very bad Example to all Men.</p>
+               <p>Doct. 5. <hi>The Truth is, tho I refused to take the Oaths, I never Ingaged in any Faction against it: I never made it my husiness to disswade Men from it; when my Opinion was asked, I declared my own thought, but I never sought out Men to make Prosel<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>tes.</hi>
+               </p>
+               <p>
+                  <hi>Paraph.</hi> Tho I declared, and every Body knevv, that I vvould not take the Oaths, I never publickly Preached against it, nor raised a Tumult to hinder it; tho my Conscience vvas then too Tender to take it; but I, vvhen my Sentiments vvere asked, vvould declare my thoughts, vvhich vvere, that I could not in Con<g ref="char:EOLhyphen"/>science, nor vvould take it.</p>
+               <p>
+                  <hi>Answ.</hi> Novv Doctor, you say you never In<g ref="char:EOLhyphen"/>gaged in any Faction against it, nor made it your Business to disswade Men from it, yet gave your Opinion, but sought not to make Proselites. If you gave your Opinion your opinion vvas then, that it could not vvith a safe Conscience be taken; and if this vvas your Opinion, as you cannot deny but it vvas, then Men asked your Opinion to no purpose, and did not regard vvhat your Opinion vvas (vvhich is altogether and really improbable) or else you must of necessity make Proselites, and bring Men over to your Opinion, vvhich you here deny; for if you vvas unwilling to make Proselites, vvhy did you declare your opinion affirmatively, and not dubiously, vvhich you did not, I presume, being in your opinion positively right, tho novv it appears by your own vvords you vvere positively rong. And certainly any Man that vvas dubious, receiving your posi<g ref="char:EOLhyphen"/>tive opinion, must of necessity be a Proselite, (contrary to your vvord) for vvho vvould call in question vvhat came from the Mouth (and Heart too) of Dr. <hi>S—k.</hi>
+               </p>
+               <p>Doct. 6. <hi>While I thought it an ill thing, I was secretly concerned that some of my Intimate Friends had taken the Oaths,</hi> &amp;c.</p>
+               <p>
+                  <hi>Answ.</hi> This Paragraph, Doctor; begins vvith these vvords, Here you are concern'd that they took the Oaths, and then by and by you believe them to be Honest Men, and that they acted Honestly too. This is a strange Paradox, that Dr. <hi>S—k</hi> should be concerned at Mens Actions, vvhen at the same time he vvas satisfied they acted Honestly, this looks not at all like a Mini<g ref="char:EOLhyphen"/>sterial Zeal, neither do I believe there is any Man of your Function, but vvhat vvill be apt to cast a Smile vvhen they read these vvords of yours, and construe them (in a Sence contrary to vvhat you vvould have the World believe.) Pray, Doctor, do but see hovv your vvords agree; first concerned at your Friends that had taken the Oaths, tho at the same time you thought they acted Honestly and vvith a good Conscience too; yet tho you vvere satisfied in this Point, your Conscience vvas so Tender as not to permit you to do as they had done, tho you thought th<gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y acted Honestly. Then you tell us you com<g ref="char:EOLhyphen"/>plied vvith the Government so far as you could vvith a good Conscience, <hi>O Monstrum! hor<g ref="char:EOLhyphen"/>rendum!</hi>
+               </p>
+               <pb n="6" facs="tcp:93573:4"/>
+               <p> Doct. In the next place you tell us, <hi>You lived Peaceably, and prayed for their Majesties, ac<g ref="char:EOLhyphen"/>cording to the Apostles direction, who gave di<g ref="char:EOLhyphen"/>rections to pray for all in Authority, which they visibly were.</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> As for your living peaceably, it was no more than what you ought to have done, neither durst you do otherwise: And if you thought it lawful to pray for Their Majesties King <hi>William</hi> and Queen <hi>Mary;</hi> why not as lawful to take the Oaths at that time as now? May not People with Reason guess that you looked (not to say that you hoped) for a Catastrophe of Affairs in <hi>England,</hi> and now you see no hopes of keeping your Place unless you take the Oaths, and <hi>Ire<g ref="char:EOLhyphen"/>land</hi> being reduced to Their Majesties, and the late K. <hi>J.</hi> fled, you see no prospect of his returning; your Conscience on a sudden alters the property, and you that could not before Swear, can now do it with a safe Conscience: Oh Interest! Interest! how many Servants hast thou!</p>
+               <p>Doct. 7. <hi>I did not refuse the Oaths out of any fondness to King</hi> James <hi>his Government, nor Zeal for his return; which the present prospect of Af<g ref="char:EOLhyphen"/>fairs gives no Man who loves the Church of</hi> Eng<g ref="char:EOLhyphen"/>land, <hi>and the Liberty of his Country, any rea<g ref="char:EOLhyphen"/>son to wish, nor yet out of any Aversion to the Government of King</hi> William <hi>and Queen</hi> Mary: <hi>But against my own Inclinations and Interest, out of pure Principles of Conscience, to comply with the Obligations of my former Oaths; and that Duty which Subjects owe to their Prince, which I then apprehended Irreconcileable with the new Oath.</hi>
+               </p>
+               <p>
+                  <hi>Paraphrased</hi>—I did not then Swear because many of King <hi>J</hi>'s. Friends had hopes of his return, and I was a little inclining that way too, and if he had come and I took the new Oaths, where had I been then? But Their Majesties King <hi>William</hi> and Queen <hi>Mary</hi> being so mercy<g ref="char:EOLhyphen"/>ful as not to have me suspended, till such time as I saw it improbable, or rather impossible for my old Mr's. return; though till that time I thought the old Oaths and the new ones Irreconcileable, yet now they agree very well, and I resolve <hi>ne<g ref="char:EOLhyphen"/>mine contradicente</hi> to take them, let the World censure as they please, Honesty is not always the best Policy, for some times Policy is the best Honesty.</p>
+               <p>
+                  <hi>Answ.</hi> Why all this stickling and scruple of Conscience, <hi>Doctor?</hi> Did so many Learned, Ju<g ref="char:EOLhyphen"/>dicious, and unbiassed Men, take the Oaths before you? and think you that they who understood what they did, and bore as good a Conscience as you, would for Interest sake act against their Con<g ref="char:EOLhyphen"/>sciences? and if you was not satisfied in the lega<g ref="char:EOLhyphen"/>lity of the Oaths, they could have given you am<g ref="char:EOLhyphen"/>ple Satisfaction in that point; who, I presume, did what they did, not without deliberation, and had as good Reason for taking the Oaths then, as you had now.</p>
+               <p>Doct. 8. <hi>I find the general Cry and Expecta<g ref="char:EOLhyphen"/>tion is, that I should give my Reasons, though why I should be more obliged to give my Reasons for Swearing than I was for not Swearing, I cannot tell.</hi>
+               </p>
+               <p>
+                  <hi>Paraph.</hi> Some Men have of late, and do still, impatiently expect to see my Reasons for not ta<g ref="char:EOLhyphen"/>king the Oaths made publick, though I can give no more reason for the taking of them now, than for the refusing of them formerly; and why should I expose my Failings to the Censures of reasonable Men, who I fear will detect me.</p>
+               <p>
+                  <hi>Answ.</hi> Now, <hi>Doctor,</hi> the Reason why you should give your Reasons, more for your Swear<g ref="char:EOLhyphen"/>ing than for your not Swearing, is plain; (tho indeed you ought for the sake of your Reputati<g ref="char:EOLhyphen"/>on to have done both) for the World did sup<g ref="char:EOLhyphen"/>pose, and were partly satisfied, why you did not take the Oaths; but after having so long stood proof against the Reasons and Persuasions of other Men, and yet at last to take them, and give no Reason for it, will give the World reason to judge partially of you; and therefore for the sake of your own Reputation, and (which is another main point, and ought to be considered, if no<g ref="char:EOLhyphen"/>thing else) others, who have not yet taken the Oaths, seeing Dr. <hi>S—k</hi> had sound Reasons for what he did, would by your Example take the Oaths likewise. If this is not Reason enough let the World judge. Though a little farther you say, if Reasons were never so plentiful with you, yet you could hardly think it worth your while to write a Book to gratifie a meer Curiosity, but if my Reasons to the contrary do not out ballance yours, let me know in Print, for Reason is, or at least ought to be, our North Point by which we must steer our Course, but I fear your Reason was over-swayed by an unreasonable W—fe.</p>
+               <p>Doct. 9. <hi>We live in an Age of great Prophane<g ref="char:EOLhyphen"/>ness and Infidelity, which is ready to take all oc<g ref="char:EOLhyphen"/>casions to reproach Religion, and expose it as a Cheat and Imposture, and to neglect no Oppor<g ref="char:EOLhyphen"/>tunity to blacken the Clergy, as Men of no Faith nor Religion themselves, though they make a great noise about it to serve their own Interest.</hi>
+               </p>
+               <pb n="7" facs="tcp:93573:4"/>
+               <p>
+                  <hi>Answ.</hi> It may be, <hi>Doctor,</hi> there may be some (as the World is never without them) who are Men of such Principles as you describe them to be; but if there were none, such proceedings as these of yours, are enough to create some: Though God forbid all should be condemn'd for one, for I am verily persuaded there is not more Pious, Sincere, Religious honest Men upon the face of the Earth than our Clergy of <hi>England</hi> in general, (but here is matter enough for Censure) and as for Particulars let the World judge.</p>
+               <p>Doct. 10. <hi>It is time to give chieck to such un<g ref="char:EOLhyphen"/>christian Censures, if we have any regard to our common Christianity: and since some little Wri<g ref="char:EOLhyphen"/>ters among them (who are too head-strong to be governed by Wiser Men) ingross the Church and Religion to themselves, and represent all who have taken the Oaths, especially the Clergy, as Apo<g ref="char:EOLhyphen"/>states, at least from the Church of</hi> England, <hi>if not from the Christian Faith.</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> This indeed is a business of dangerous Consequence, and ought to be speedily remedi<g ref="char:EOLhyphen"/>ed; but is it either better or worse than what you in effect formerly set forth, in your grand and dearly beloved Doctrine of <hi>Non-resistance?</hi> First preach up <hi>Non-resistance,</hi> then refuse the Oaths, vvhen tendered to you; till after half a Years Consideration, your W—fe's Persuasion, and fear of being suspended, you take them, and then you give no good Reason vvhy you did not take them, nor vvhy you did take them neither; Can you imagine that Peoples Tongues will be filent at such irregular unheard of Proceedings as these? had you took them at first all had been vvell.</p>
+               <p>Doct. 11. <hi>It is necessary to convince all sober Christians, that Men may Swear Allegiance to King</hi> William <hi>and Queen</hi> Mary <hi>without Perju<g ref="char:EOLhyphen"/>ry, and without renouncing any Principles of the Church of</hi> England; <hi>nay, that the Doctrine of the Church of</hi> England <hi>requires us so to do: and I hope, if this appear, their Zeal for the Church of</hi> England, <hi>if no other Consideration can pre<g ref="char:EOLhyphen"/>vail with them, will oblige them also to do it.</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> Ay, <hi>Doctor,</hi> now you say something to the matter, this is positively true; and now you verifie the Proverb. <hi>A Man may live and learn—</hi> &amp; for you have exrremely improved you self vvithin a few Months, vvho then thought and de<g ref="char:EOLhyphen"/>clared the Oaths Illegal, and now declare it may be done without Perjury (vvhich I own) and farther, That the Doctrine of the Church of <hi>Eng<g ref="char:EOLhyphen"/>tand</hi> commands us so to do, vvhich I own like<g ref="char:EOLhyphen"/>wise: But how comes this vast difference, <hi>Do<g ref="char:EOLhyphen"/>ctor,</hi> in your Judgment, pray consider, if here is not sufficient matter to set Tongues and Pens too on vvork: Who can be filent to see so Reverend and Learned a Divine as Dr. <hi>S—k</hi> so much over<g ref="char:EOLhyphen"/>seen? But to proceed to your next Paragraph.</p>
+               <p>Doct. 12. <hi>But it seems it will not serve my turn to offer such Reasons as will justifie my Com<g ref="char:EOLhyphen"/>pliance now, unless I can give a good Reason why I did not take the Oaths before, that is, I must give such Reasons as will equally prove, that no Man ought to have taken the Oaths before; and that they ought to take them now.</hi>
+               </p>
+               <p>
+                  <hi>Paraph.</hi> The World vvould extort a sincere Confession from me, hovv I expected a sudden Change of the Times, therefore delayed the time till I see my old M—r beaten; Then hovv my W—fe persuaded me to recant; but let them judge as they please, I am resolved if I can to de<g ref="char:EOLhyphen"/>fend my self: For thus much I say I had Reason for not taking them then, and I had Reason for taking of them novv: but vvhat my other Reasons was I vvill not divulge, this may very vvell be the Construction of your Words, no Man of Sense I think vvill deny.</p>
+               <p>Doct. 13. <hi>These are very hard Task-Masters and no doubt have very kind designs in it— What if I was not so well satisfied about thi<gap reason="illegible: page cropped" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> matter before as I am now, is any Man forbid<g ref="char:EOLhyphen"/>den to grow Wiser? and upon a thorough Exami<g ref="char:EOLhyphen"/>nation of things, to alter his mind when he see<gap reason="illegible: page cropped" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> good Reason for it?</hi>
+               </p>
+               <p>
+                  <hi>Parapb.</hi> What if I had not such a prospect o<gap reason="illegible: page cropped" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Preferment before, as I have novv; is any Man forbidden to vvear a Mitre, or after having mad<gap reason="illegible: page cropped" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> a firm Promise or Vow, if he sees it vvill be fo<gap reason="illegible: page cropped" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> his Interest, vvhy should he not break it? Half <gap reason="illegible: page cropped" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Years Consideration, large Promises, and a W—fe<gap reason="illegible: page cropped" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Persuasions, are stronge Inticements for a Man t<gap reason="illegible: page cropped" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> break his Promise or Oaths either.</p>
+               <p>Doct. 14. <hi>So that without producing the Rea<g ref="char:EOLhyphen"/>sons of my Dissatisfaction before, or being obli<g ref="char:EOLhyphen"/>ged to answer them, having never made them publick. I think it very fair to give a satisfa<g ref="char:EOLhyphen"/>ctory Reason now, for my taking of this Oath hoping that what hath satisfied me may have th<gap reason="illegible: page cropped" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> same effect upon some others, that will have th<gap reason="illegible: page cropped" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Patience impartially to consider it,</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> Novv, <hi>Doctor,</hi> you follovv the Exam<g ref="char:EOLhyphen"/>ple of Holy Writ, vvhen you are Converte<gap reason="illegible: page cropped" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <hi>Strengthen your Brethren;</hi> but it vvill be a ve<gap reason="illegible: page cropped" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> hard thing, and almost impossibie to persua<gap reason="illegible: page cropped" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> those Men (vvhom you have formerly persua<gap reason="illegible: page cropped" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ed
+<pb n="8" facs="tcp:93573:5"/>to the contrary) to be of your Opinion, for a Man that vvill say and unsay, uvho can believe? <hi>Can the Brier bring forth Figs? Or can Honey come forth of a Lyons Jaws?</hi> It is an undoubled Maxim, He that is once false for his Interest vvill always be so if his Interest requires it.</p>
+               <p>The next place, <hi>Doctor,</hi> you acquaint the Reader, that you had drawn up your Thoughts long since, and shewed to some of your Friends, if so, it had been a very discreet part in you, in my Opinion, to have published them to satisfie the World; but you stuck (or rather something stuck in your Stomach) and had stuck there till this day, had you not been relieved by Bistop <hi>Overals</hi> Convocation Book, (or a prospect of lo<g ref="char:EOLhyphen"/>sing your Place, if you do not Swear, or getting a better if you did together with the persuasions of your W—fe) blessed Book! to bring a Man from Darkness to the RIGHT WAY.</p>
+               <p>Doct. 15. <hi>Then you tell the Reader you have made him your Confessor.</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> I declare I believe if I vvas your Confessor, and you to be turned out of your Place if you did not confess your real Cogitati<g ref="char:EOLhyphen"/>ons to me, as to this matter, I should have ano<g ref="char:EOLhyphen"/>ther manner of Confession from you. And to close up all, you say you have renounced no Principle excepting in the Case of Resistance, vvhich you retract, and vvhich is indeed the only material thing next to the Oaths, that the World lays to your Charge. You say, that in a Hereditary Mo<g ref="char:EOLhyphen"/>narchy, vvhere the right Heir is living, Usurped Powers are not of God, proved by the <gap reason="illegible: page cropped" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> of <hi>Joash.</hi> And novv you reject they <gap reason="illegible: page cropped" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> and own it a Mistake. Whoever had told three Years ago, that Dr. <hi>S—k</hi> vvould <gap reason="illegible: page cropped" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> done as he has done, I vvould not have credi<gap reason="illegible: page cropped" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> his Words, but THERE IS NO BELI<gap reason="illegible: page cropped" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> IN MAN.</p>
+               <p>Thus I have done vvith the <hi>Preface</hi> of yo<gap reason="illegible: page cropped" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Book; and leave the Book it self to be answer<gap reason="illegible: page cropped" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> by him that vvill take the pains, for I assure y<gap reason="illegible: page cropped" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> I vvill not go about so tedious a Work, tho<gap reason="illegible: page cropped" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> believe some body or other vvill. And vvha<gap reason="illegible: page cropped" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <gap reason="illegible: page cropped" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> have here vvrote, I assure you, Dr. S— I have not done out of any Malice to your p<gap reason="illegible: page cropped" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>son, but to your proceedings, not for your <gap reason="illegible: page cropped" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>king the Oaths, but for taking of them no soon<gap reason="illegible: page cropped" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> For I heartily vvish, all <hi>Englishmen</hi> (vv<gap reason="illegible: page cropped" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> ought to be) vvere really true and loyal Subject<gap reason="illegible: page cropped" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> to Their Majesties King <hi>William</hi> and Queen <hi>M<gap reason="illegible: page cropped" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>ry,</hi> as I declare I my self am: And vvhat I ha<gap reason="illegible: page cropped" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> vvrote here is nothing but truth, as you are satisf<gap reason="illegible: page cropped" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ed in your Conscience it is; and if you have an<gap reason="illegible: page cropped" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>thing to alledge to the contrary, let the Worl<gap reason="illegible: page cropped" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> knovv it. Now, <hi>Doctor,</hi> you may suppose I d<gap reason="illegible: page cropped" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> not this for lucre sake, I shall not have a hundre<gap reason="illegible: page cropped" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> pounds for this Paper, as you had for your <gap reason="illegible: page cropped" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Book, but meeting with a Hawker who <gap reason="illegible: page cropped" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> yours, I bought it, and could not be satisfied til<gap reason="illegible: page cropped" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> I let you know how I approved of it, which have done in as little Paper as possibly I could and is the Work of two or three vacant hour of a <hi>London</hi> Apprentice.</p>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
